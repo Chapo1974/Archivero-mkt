@@ -1,0 +1,14 @@
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; background: #f4f4f4; color: #2b2b2b; }
+header { background: #6d1a35; color: #fff; padding: 24px 40px; border-bottom: 6px solid #e6007e; }
+header h1 { margin: 0; font-size: 1.7em; text-transform: uppercase; letter-spacing: 1px; }
+header p { margin: 4px 0 0; color: #f2c6d8; font-size: 0.9em; }
+.contenido { max-width: 720px; margin: 0 auto; padding: 40px 20px; }
+.materia-link, .boton { display: block; background: #e6007e; color: #fff; text-decoration: none; padding: 16px 20px; margin: 14px 0; border-radius: 6px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; text-align: center; transition: background .2s; }
+.materia-link:hover, .boton:hover { background: #6d1a35; }
+.volver { display: inline-block; margin-top: 30px; color: #6d1a35; font-weight: bold; text-decoration: none; }
+.volver:hover { text-decoration: underline; }
+ul#lista { list-style: none; padding: 0; }
+ul#lista li { background: #fff; border-left: 4px solid #e6007e; padding: 12px 16px; margin: 10px 0; border-radius: 4px; }
+ul#lista a { color: #6d1a35; text-decoration: none; font-weight: bold; }
+ul#lista a:hover { text-decoration: underline; }
+footer { text-align: center; padding: 20px; color: #888; font-size: 0.85em; }

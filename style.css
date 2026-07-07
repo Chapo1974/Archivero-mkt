@@ -16,3 +16,4 @@ footer { text-align: center; padding: 20px; color: #888; font-size: 0.85em; }
 .header-uai svg { flex-shrink: 0; }
 .header-uai h1 { margin: 0; font-size: 1.5em; text-transform: uppercase; letter-spacing: 1px; }
 .header-uai p { margin: 2px 0 0; color: #f2c6d8; font-size: 0.95em; }
+.header-shield { flex-shrink: 0; width: 52px; height: 52px; border-radius: 50%; object-fit: cover; border: 2px solid #fff; background: #fff; }
